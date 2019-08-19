@@ -590,7 +590,7 @@ FUNCTION {bst.title.post}
 % title の前に付ける文字列 (日本語文献用)
 %
 FUNCTION {bst.title.pre.jp}
-{ "，「" }    % (default)
+{ "「" }    % (default)
 
 % title の後に付ける文字列 (日本語文献用)
 %
@@ -615,7 +615,7 @@ FUNCTION {bst.book.post}
 % book の title 前に付ける文字列 (日本語文献用)
 %
 FUNCTION {bst.book.pre.jp}
-{ "，『" }    % (default)
+{ "『" }    % (default)
 
 % book の title 後に付ける文字列 (日本語文献用)
 %
@@ -640,7 +640,7 @@ FUNCTION {bst.btitle.post}
 % booktitle の前に付ける文字列 (日本語文献用)
 %
 FUNCTION {bst.btitle.pre.jp}
-{ "，『" }    % (default)
+{ "『" }    % (default)
 
 % booktitle の後に付ける文字列 (日本語文献用)
 %
@@ -665,7 +665,7 @@ FUNCTION {bst.journal.post}
 % journal name の前に付ける文字列 (日本語文献用)
 %
 FUNCTION {bst.journal.pre.jp}
-{ "，『" }    % (default)
+{ "『" }    % (default)
 
 % journal name の後に付ける文字列 (日本語文献用)
 %
